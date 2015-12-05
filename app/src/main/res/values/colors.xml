@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_gray">#fff2f2f2</color>
+    <color name="transparent_black">#55000000</color>
+    <color name="divider_gray_menu">#ff4B4A50</color>
+    <color name="divider_black_menu">#ff28292C</color>
+    <color name="theme_color">#ff373A42</color>
+</resources>
