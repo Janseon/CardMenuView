@@ -1,4 +1,4 @@
-package com.janseon.cardmenuview.app;
+package com.janseon.cardmenuview.utils;
 
 import android.animation.Animator;
 import android.animation.Animator.AnimatorListener;

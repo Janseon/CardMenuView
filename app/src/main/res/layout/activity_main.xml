@@ -60,26 +60,26 @@
             android:visibility="gone" />
     </RelativeLayout>
 
-    <com.janseon.cardmenuview.app.MenusLayout
+    <com.janseon.cardmenuview.widget.MenusLayout
         android:id="@+id/menus"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_below="@id/layout_user"
         android:background="@color/theme_color" />
 
-    <com.janseon.cardmenuview.app.CreativeView
+    <com.janseon.cardmenuview.view.CreativeView
         android:id="@+id/view_creative"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginTop="168dip" />
 
-    <com.janseon.cardmenuview.app.OpusView
+    <com.janseon.cardmenuview.view.OpusView
         android:id="@+id/view_opus"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginTop="112dip" />
 
-    <com.janseon.cardmenuview.app.DramaView
+    <com.janseon.cardmenuview.view.DramaView
         android:id="@+id/view_drama"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

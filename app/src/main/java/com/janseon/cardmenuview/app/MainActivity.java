@@ -13,6 +13,16 @@ import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.ImageView.ScaleType;
 import android.widget.TextView;
+
+import com.janseon.cardmenuview.base.BaseActivity;
+import com.janseon.cardmenuview.base.BaseCardLayout;
+import com.janseon.cardmenuview.base.BaseObjectAdapter;
+import com.janseon.cardmenuview.utils.AnimUtil;
+import com.janseon.cardmenuview.utils.DrawableUtil;
+import com.janseon.cardmenuview.view.CreativeView;
+import com.janseon.cardmenuview.view.DramaView;
+import com.janseon.cardmenuview.view.OpusView;
+import com.janseon.cardmenuview.widget.MenusLayout;
 import com.makeramen.roundedimageview.RoundedImageView;
 
 import java.util.ArrayList;

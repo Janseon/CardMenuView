@@ -1,4 +1,4 @@
-package com.janseon.cardmenuview.app;
+package com.janseon.cardmenuview.base;
 
 import android.content.Context;
 import android.util.AttributeSet;

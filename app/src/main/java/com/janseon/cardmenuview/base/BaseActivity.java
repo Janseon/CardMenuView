@@ -1,4 +1,4 @@
-package com.janseon.cardmenuview.app;
+package com.janseon.cardmenuview.base;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -9,6 +9,8 @@ import android.widget.FrameLayout;
 import android.widget.LinearLayout;
 import android.widget.ScrollView;
 import android.widget.TextView;
+
+import com.janseon.cardmenuview.app.R;
 
 /**
  * 

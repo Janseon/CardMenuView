@@ -1,4 +1,4 @@
-package com.janseon.cardmenuview.app;
+package com.janseon.cardmenuview.widget;
 
 import android.content.Context;
 import android.util.AttributeSet;
@@ -11,6 +11,8 @@ import android.view.animation.ScaleAnimation;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.BaseAdapter;
 import android.widget.LinearLayout;
+
+import com.janseon.cardmenuview.app.R;
 
 /**
  * 

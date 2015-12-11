@@ -1,4 +1,4 @@
-package com.janseon.cardmenuview.app;
+package com.janseon.cardmenuview.view;
 
 import android.content.Context;
 import android.util.AttributeSet;
@@ -7,6 +7,9 @@ import android.view.Gravity;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
+
+import com.janseon.cardmenuview.app.R;
+import com.janseon.cardmenuview.base.BaseCardLayout;
 
 public class DramaView extends BaseCardLayout {
 
